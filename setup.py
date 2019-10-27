@@ -6,7 +6,7 @@ with open("README", 'r') as f:
 setup(name='rmbs',
       version='0.1.0',
       url='https://github.com/charleszxiong/rmbs',
-      description='Reconstruct Many-Body States from Correlation Functions',
+      description='Reconstruct Quantum Many-Body States from Correlation Functions',
       long_description=long_description,
       author='Charles Zhaoxi Xiong',
       author_email='xiongzhaoxi@gmail.com',
