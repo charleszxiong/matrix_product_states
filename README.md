@@ -1,2 +1,2 @@
-# rqs
-Reconstruct quantum states from correlation functions
+# rmbs
+Reconstruct quantum many-body states from correlation functions
