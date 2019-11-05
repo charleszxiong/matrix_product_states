@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Universal launcher for unit tests"""
 
 import argparse

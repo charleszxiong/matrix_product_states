@@ -1,21 +1,15 @@
-"""Unittest for one module
+#!/usr/bin/env python3
 
-Test One
-"""
 
 import unittest
 import mps
 
 
-class TestOne(unittest.TestCase):
-    """Unittest class for one module"""
+class TestMPS(unittest.TestCase):
+    """Unittest class for mps"""
 
-    def test_one(self):
-        """Test one"""
-        self.assertTrue(True)
-
-    def test_two(self):
-        """Test two"""
+    def trivial_test(self):
+        """Trivial test"""
         self.assertTrue(True)
 
 
