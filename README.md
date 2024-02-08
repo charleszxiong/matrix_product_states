@@ -1,6 +1,8 @@
 # Matrix Product States
 
-WIP package for matrix product state (MPS) algebras. Disclaimer: this package comes with absolutely no guarantee; please use at your own risk!
+Work-in-progress implementation of matrix product state (MPS) algebras.
+
+Disclaimer: this package comes with absolutely no guarantee; please use at your own risk!
 
 See
 ```
