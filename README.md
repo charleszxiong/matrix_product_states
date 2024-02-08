@@ -2,7 +2,7 @@
 
 Work-in-progress implementation of matrix product state (MPS) algebras.
 
-Disclaimer: this package comes with absolutely no guarantee; please use at your own risk!
+This package comes with absolutely no guarantee. Please refer to the license page for detail.
 
 See
 ```
